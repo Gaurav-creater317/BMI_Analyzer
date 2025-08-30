@@ -1,14 +1,5 @@
 # BMI-Calculator
 
-How I Built a BMI Calculator
-#
-webdev
-#
-javascript
-#
-sideprojects
-#
-programming
 💡 Introduction
 As part of my web development learning journey, I created a fun and useful project — a BMI (Body Mass Index) Calculator. This helped me practice HTML form inputs, JavaScript logic, and CSS styling in a real-world mini-project.
 
