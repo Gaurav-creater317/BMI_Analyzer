@@ -14,5 +14,5 @@ BMI = weight (kg) / [height (m)]²
 
 Based on your BMI, you can be categorized as underweight, normal, overweight, or obese.
 
-✨ Feel free to fork and star this repository if you like it !
+ # ✨ Feel free to fork and star this repository if you like it !
 
